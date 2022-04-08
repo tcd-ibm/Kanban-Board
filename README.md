@@ -8,15 +8,18 @@
 
  
  The aim of the project was to gain familiarity with open source development practices and employ the major software development and design principles used in industry such as CI/CD pipelines and automated testing . 
-
  
 ## Ci/CD pipeline implementation
-The
+We created a CI/CD pipeline using Github Actions by doing the following :
+![ci/cdpipeline](./images/ci-cdpipeline.jpg)
 
-
-## Documentation links
-We documented our approach
+## Helpfull links
+The following is a list of links that helps explain our project development approach :
 
 * [CI/CD pipeline setup guide](./documentation/PipelineSetUpGuide.md)
-*
+* [API requests guide](./documentation/ApiDocumentation.md)
+* [Architectural Decisions ](ArchitecturalDecisionsCICD.md)
+
+## Further reading
+A list of reports created as part of this module.
 
