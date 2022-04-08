@@ -1,4 +1,3 @@
-# Multiuser Kanban board with ci/cd pipeline
 
 ## Introduction
  - Our team created a multi user kanban board that was deployed using a modern CI/CD pipeline with container based technology based on Red Hat for IBM. 
