@@ -18,7 +18,7 @@ The following is a list of links that helps explain our project development appr
 
 * [CI/CD pipeline setup guide](./documentation/PipelineSetUpGuide.md)
 * [API requests guide](./documentation/ApiDocumentation.md)
-* [Architectural Decisions ](ArchitecturalDecisionsCICD.md)
+* [Architectural Decisions ](./documentation/ArchitecturalDecisionsCICD.md)
 
 ## Further reading
 A list of reports created as part of this module.
