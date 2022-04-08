@@ -27,3 +27,4 @@ The following is a list of links that helps explain our project development appr
 ## Further reading
 A list of reports created as part of this module.
 * [Project Plan](./Reports/Project%20Plan-1.pdf) (Includes requirments document and Software Design Specification Document)
+* [Project Poster](./Reports/Group_31.pptx.pdf)
