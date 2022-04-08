@@ -9,7 +9,7 @@
  The aim of the project was to gain familiarity with open source development practices and employ the major software development and design principles used in industry such as CI/CD pipelines and automated testing . 
  
 ## Demo 
-[User Interface](./images/kanbandemo.gif)
+![User Interface](./images/kanbandemo.gif)
 
  [Full Video Demo Video](https://github.com/tcd-ibm/Multiuser-Kanban-Board/blob/main/group_31.mp4)
  
