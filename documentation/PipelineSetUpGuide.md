@@ -26,7 +26,7 @@ The basic set up on quay.io is done.
 
 The next step is creating an OpenShift Cluster. The simpliest way is to access OpenShift through Developer Sandbox. Here is the [link](https://developers.redhat.com/developer-sandbox/get-started). Just follow the set up steps, they are straight forward. Once you have finished the set up steps you should have access to developer sandbox, which may look something like that (except you will not have any deployments, which are depicted as circles in the workspace): 
 
-![developer-sandbox](images/developer_sandbox.png)
+![developer-sandbox](../images/developer_sandbox.png)
 
 Now you will have to create a service account for OpenShift. The idea is exactly the same as with robot accounts on quay.io. Please follow these links to learn how to create the service account [RedHat Docs on creating Service Accounts](https://docs.openshift.com/container-platform/4.6/authentication/understanding-and-creating-service-accounts.html#service-accounts-granting-roles_understanding-service-accounts) and [Github Actions OpenShift Login Docs](https://github.com/redhat-actions/oc-login/wiki/Using-a-Service-Account-for-GitHub-Actions#creating-the-service-account).
 
@@ -55,8 +55,8 @@ For a typical NodeJS + MongoDB application we can set up PORT, MONGODB_PORT and 
 
 Search in the services catalog for MongoDB application and deploy it following the web UI in the developer sandbox. You may want to change the name of the database and your deployment or leave them as default. Here is an example of what you will see when creating a MongoDB deployment:
 
-![mongodb-1](images/mongodb_1.png)
-![mongodb-2](images/mongodb_2.png)
+![mongodb-1](../images/mongodb_1.png)
+![mongodb-2](../images/mongodb_2.png)
 
 Once you have created a MongoDB deployment you will see a new circle that appeared in your topology tab. 
 
